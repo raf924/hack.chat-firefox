@@ -1,0 +1,13 @@
+{
+  "title": "Hack.chat firefox addon",
+  "name": "hackchat-firefox",
+  "version": "0.0.1",
+  "description": "Addon for hack.chat",
+  "main": "index.js",
+  "author": "raf924",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
